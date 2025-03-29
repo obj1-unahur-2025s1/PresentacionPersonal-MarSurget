@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Martina Surget Albano
+- Vivo en Villa Tessei
 
 
 ### Otra Información
